@@ -120,6 +120,7 @@ const JobList = () => {
                 uuid: candidate.uuid,
                 jobId,
                 candidateId: candidate.candidateId,
+                applicationId: candidate.applicationId,
                 repoUrl,
             });
 
